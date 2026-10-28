@@ -1,0 +1,10 @@
+build/
+cmake-build-*/
+out/
+.vs/
+.vscode/
+.idea/
+*.o
+*.obj
+*.exe
+imgui.ini
