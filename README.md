@@ -67,7 +67,7 @@ CMakeLists.txt
 
 | Name | Group | Role |
 |---|---|---|
-| Zhunis Nurzhigit | [group] | [role] |
+| Zhunis Nurzhigit | [SE-2421] | [developer] |
 
 Course: Computer Graphics Fundamentals. Instructor: Nazira Shaimerdenova.
 
