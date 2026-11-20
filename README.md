@@ -87,7 +87,3 @@ This section matches the AI Use Note in the report.
 - [GLFW](https://www.glfw.org), [GLAD](https://glad.dav1d.de), [GLM](https://github.com/g-truc/glm), [Dear ImGui](https://github.com/ocornut/imgui)
 
 All geometry and textures are generated in code, so no third-party assets are used.
-
-## License
-
-[Add your license, e.g. MIT]
