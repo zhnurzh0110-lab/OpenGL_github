@@ -4,7 +4,8 @@ A real-time, first-person stealth game in C++17 and OpenGL 3.3 core profile.
 Cross the vault, dodge moving lasers and guard spotlights, watch the CCTV monitor, and crack the safe.
 
 ![Screenshot](docs/screenshot.png)
-<!-- Drop a screenshot into docs/screenshot.png -->
+<img width="1280" height="720" alt="fig05_rotating_lasers" src="https://github.com/user-attachments/assets/50f001cd-8067-4099-8119-5e62eb507a7e" />
+
 
 ## Features
 
